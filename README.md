@@ -1,4 +1,11 @@
-Passos de construção (tutorial em https://mkdev.me/posts/fundamentals-of-front-end-django):
+<h1 align="center">Dashboard em Django</h1>
+
+
+Dashboard contendo login, registro de usuário e tabela.
+
+:small_blue_diamond: Passos de construção 
+
+Tutorial em https://mkdev.me/posts/fundamentals-of-front-end-django
 
 1 - Instalar python3 e Django na máquina
 
@@ -13,7 +20,7 @@ python manage.py migrate
 python manage.py createsuperuser
 python manage.py runserver
 
-MODIFICAÇÕES NOS ARQUIVOS
+:small_blue_diamond: Modificações nos arquivos
 
 1 - download do bootstrap em https://startbootstrap.com/template/sb-admin
 2 - Anexar arquivos index e login.html em core/templates
